@@ -1,0 +1,6 @@
+{
+  "name": "Catch the Candy - Physics Puzzle",
+  "description": "Gioco puzzle 2D basato sulla fisica in stile Catch the Candy: lancia la lingua elastica, aggrappati alle superfici, evita il ghiaccio scivoloso e afferra la caramella!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
